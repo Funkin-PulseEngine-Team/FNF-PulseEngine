@@ -55,7 +55,7 @@ haxelib install hscript
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/BRODING-DEV/FNF-PulseEngine.git
+git clone https://github.com/Funkin-PulseEngine-Team/FNF-PulseEngine.git
 cd FNF-PulseEngine
 ```
 
