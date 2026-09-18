@@ -108,7 +108,7 @@ Contributions, issues, and feature requests are welcome!
 ## 📜 Credits & Acknowledgments
 
 - **[Hjin-BF](https://github.com/Hjin-BF)** — Lead Developer & Project Maintainer.
-- **[BRODING-DEV](https://github.com/BRODING-DEV)** — Original Creator / Contributor.
+- **[BRODING-DEV](https://github.com/BRODING-MAKER)** — Original Creator / Contributor.
 - **[Funkin' Team](https://github.com/FunkinCrew)** — Creators of original Friday Night Funkin'.
 - **[HaxeFlixel Team](https://haxeflixel.com/)** — Game engine framework.
 
