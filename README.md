@@ -27,7 +27,7 @@ To build the project from source, you will need **Haxe** and the **HaxeFlixel** 
 
 ### 1. Prerequisites
 
-1. Download and install [Haxe 4.2.5+](https://haxe.org/download/)
+1. Download and install [Haxe 4.2.5](https://haxe.org/download/version/4.2.5)
 2. Download and install [Git](https://git-scm.com/)
 
 ### 2. Setting Up Dependencies
@@ -36,18 +36,21 @@ Open a terminal or command prompt and run the following commands:
 
 ```bash
 # Install Lime and Flixel
-haxelib install lime
-haxelib install openfl
-haxelib install flixel
-haxelib run lime setup flixel
+haxelib install lime 7.9.0
+haxelib install openfl 9.1.0
+haxelib install flixel 4.11.0
 haxelib run lime setup
 
 # Install additional libraries
-haxelib install flixel-tools
-haxelib install flixel-ui
-haxelib install flixel-addons
+haxelib install flixel-tools 1.5.1
+haxelib install flixel-ui 2.4.0
+haxelib install flixel-addons 2.11.0
 haxelib install hxCodec
-haxelib install hscript
+haxelib install hscript 2.5.0
+haxelib install polymod 1.5.1
+haxelib install flxanimate 3.0.2
+haxelib install tjson
+haxelib install json2object
 ```
 
 ---
