@@ -107,6 +107,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📜 Credits & Acknowledgments
 
+- **[Lonqsy(https://github.com/Riasgremory2)** — Developer & Android Porter.
 - **[Hjin-BF](https://github.com/Hjin-BF)** — Lead Developer & Project Maintainer.
 - **[BRODING-DEV](https://github.com/BRODING-MAKER)** — Original Creator / Contributor.
 - **[Funkin' Team](https://github.com/FunkinCrew)** — Creators of original Friday Night Funkin'.
