@@ -10,6 +10,8 @@
 
 ---
 
+## 'new-release' is currently focused on 0.2.0 development any may contain, 'main' is currently focused on 0.1.X 
+
 ## 🚀 Features
 
 - ⚡ **High Performance:** Optimized memory and graphics handling for smoother gameplay.
