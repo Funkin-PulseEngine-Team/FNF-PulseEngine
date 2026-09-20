@@ -10,6 +10,8 @@
 
 ---
 
+'new-release' is currently focused on 0.2.0 development any may contain, 'main' is currently focused on 0.1.X 
+
 ## 🚀 Features
 
 - ⚡ **High Performance:** Optimized memory and graphics handling for smoother gameplay.
@@ -25,7 +27,7 @@ To build the project from source, you will need **Haxe** and the **HaxeFlixel** 
 
 ### 1. Prerequisites
 
-1. Download and install [Haxe 4.2.5+](https://haxe.org/download/)
+1. Download and install [Haxe 4.2.5](https://haxe.org/download/version/4.2.5)
 2. Download and install [Git](https://git-scm.com/)
 
 ### 2. Setting Up Dependencies
@@ -34,18 +36,21 @@ Open a terminal or command prompt and run the following commands:
 
 ```bash
 # Install Lime and Flixel
-haxelib install lime
-haxelib install openfl
-haxelib install flixel
-haxelib run lime setup flixel
+haxelib install lime 7.9.0
+haxelib install openfl 9.1.0
+haxelib install flixel 4.11.0
 haxelib run lime setup
 
 # Install additional libraries
-haxelib install flixel-tools
-haxelib install flixel-ui
-haxelib install flixel-addons
+haxelib install flixel-tools 1.5.1
+haxelib install flixel-ui 2.4.0
+haxelib install flixel-addons 2.11.0
 haxelib install hxCodec
-haxelib install hscript
+haxelib install hscript 2.5.0
+haxelib install polymod 1.5.1
+haxelib git flxanimate https://github.com/Funkin-PulseEngine-Team/flxanimate
+haxelib install tjson
+haxelib install json2object
 ```
 
 ---
@@ -55,7 +60,7 @@ haxelib install hscript
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/BRODING-DEV/FNF-PulseEngine.git
+git clone https://github.com/Funkin-PulseEngine-Team/FNF-PulseEngine.git
 cd FNF-PulseEngine
 ```
 
@@ -107,8 +112,9 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📜 Credits & Acknowledgments
 
+- **[Lonqsy](https://github.com/Riasgremory2)** — Developer & Android Porter.
 - **[Hjin-BF](https://github.com/Hjin-BF)** — Lead Developer & Project Maintainer.
-- **[BRODING-DEV](https://github.com/BRODING-DEV)** — Original Creator / Contributor.
+- **[BRODING-DEV](https://github.com/BRODING-MAKER)** — Original Creator / Ex Contributor.
 - **[Funkin' Team](https://github.com/FunkinCrew)** — Creators of original Friday Night Funkin'.
 - **[HaxeFlixel Team](https://haxeflixel.com/)** — Game engine framework.
 
