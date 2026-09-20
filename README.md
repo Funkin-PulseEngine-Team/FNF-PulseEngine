@@ -48,7 +48,7 @@ haxelib install flixel-addons 2.11.0
 haxelib install hxCodec
 haxelib install hscript 2.5.0
 haxelib install polymod 1.5.1
-haxelib git https://github.com/Funkin-PulseEngine-Team/flxanimate
+haxelib git flxanimate https://github.com/Funkin-PulseEngine-Team/flxanimate
 haxelib install tjson
 haxelib install json2object
 ```
